@@ -8,6 +8,19 @@ It includes three different examples:
 3. **Fetching movies list** from a JSON server (Mockaroo API) with detailed view on selection.  
 
 ---
+## Dependencies
+
+This project uses the following dependencies:
+
+```gradle
+// Networking
+implementation "com.android.volley:volley:1.2.1"
+
+// Image Loading
+implementation "com.github.bumptech.glide:glide:4.16.0"
+annotationProcessor "com.github.bumptech.glide:compiler:4.16.0"
+
+---
 
 ## 🚀 Features  
 
