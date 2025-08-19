@@ -100,10 +100,13 @@ Sample Data:
 
 ## 📸 Screenshots  
 
-| Student Data | Pixabay Images | Movies List | Movie Details |
-|--------------|----------------|-------------|---------------|
-| ![Student](screenshots/student.png) | ![Pixabay](screenshots/pixabay.png) | ![Movies](screenshots/movies.png) | ![MovieDetails](screenshots/movie_details.png) |
-
+<p align="center">
+  <img src="images/image1.jpg" alt="Student Data" width="200"/>
+  <img src="images/image2.jpg" alt="Image1" width="200"/>
+  <img src="images/image3.jpg" alt="Image2" width="200"/>
+  <img src="images/image4.jpg" alt="Movie List" width="200"/>
+  <img src="images/image5.jpg" alt="Movie Details" width="200"/>
+</p>
 
 
 ## ▶️ How to Run  
