@@ -101,9 +101,9 @@ Sample Data:
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Data.jpg" alt="Student Data" width="200"/>
-  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Image1.jpg" alt="Image1" width="200"/>
-  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Image2.jpg" alt="Image2" width="200"/>
+  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Data.jpg" alt="Student Data" width="400"/>
+  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Image1.jpg" alt="Image1" width="400"/>
+  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Image2.jpg" alt="Image2" width="400"/>
 </p>
 <p align="center">
   <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/MovieList.jpg" alt="Movie List" width="200"/>
