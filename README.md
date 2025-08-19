@@ -22,7 +22,7 @@ annotationProcessor "com.github.bumptech.glide:compiler:4.16.0"
 
 ---
 
-## 🚀 Features  
+### 🚀 Features  
 
 ### 1️⃣ Fetching Student Data (Mockaroo API)  
 - Retrieves student details from a JSON server.  
