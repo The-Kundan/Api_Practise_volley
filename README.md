@@ -101,7 +101,7 @@ Sample Data:
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="images/image1.jpg" alt="Student Data" width="200"/>
+  <img src="https://github.com/The-Kundan/Api_Practise_volley/blob/master/Data.jpg" alt="Student Data" width="200"/>
   <img src="images/image2.jpg" alt="Image1" width="200"/>
   <img src="images/image3.jpg" alt="Image2" width="200"/>
   <img src="images/image4.jpg" alt="Movie List" width="200"/>
